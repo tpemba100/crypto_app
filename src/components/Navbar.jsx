@@ -9,10 +9,12 @@ const Navbar = () => {
   return (
     <div className="nav-container">
         <div className="logo-container">
+            <div className="logo-title">
             <Avatar src={icon} size="large" />
             <Typography.Title level={2} className="logo">
                 <Link to="/">Cryoto</Link>
             </Typography.Title>
+            </div>
 
             <Menu theme="dark">
               <MenuItem icon={<HomeOutlined />}>

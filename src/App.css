@@ -47,10 +47,14 @@ a:hover {
 
 .logo-container {
   background-color: #001529;
-  display: flex;
+  display: relative;
   padding: 20px;
   align-items: center;
   width: 100%;
+}
+.logo-title {
+  display: flex;
+  background-color: #0071bd;
 }
 .logo {
   margin: 0 0 0 15px;
