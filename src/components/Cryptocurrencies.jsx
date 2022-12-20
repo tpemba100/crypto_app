@@ -2,7 +2,17 @@ import React from 'react'
 
 function Cryptocurrencies() {
   return (
-    <div>Cryptocurrencies</div>
+    <div>
+      <h1>
+        Cryptocurrencies
+        </h1>
+      <h1>
+        Cryptocurrencies
+        </h1>
+      <h1>
+        Cryptocurrencies
+        </h1>
+        </div>
   )
 }
 
