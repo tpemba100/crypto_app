@@ -15,7 +15,6 @@ import Exchanges from "./components/Exchanges";
 import News from "./components/News";
 import CryptoDetails from "./components/CryptoDetails";
 import "./App.css";
-import axios from 'axios';
 
 function App() {
 
